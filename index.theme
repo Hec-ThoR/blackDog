@@ -1,0 +1,11 @@
+[X-GNOME-Metatheme]
+Name=blackDog
+Name[es]=Perro negro
+Type=X-GNOME-Metatheme
+Comment=There was only one
+Comment[es]=Solo existe uno
+Encoding=UTF-8
+GtkTheme=blackDog
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
